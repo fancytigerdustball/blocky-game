@@ -6,3 +6,7 @@ It can be installed via `pip install pygame` in a terminal
 
 If you download the exe folder, then you don't need to install pygame.
 Just run the blocky.exe file!
+
+Sorry, but the files didn't load correctly and now everything is messed up :( :( :(
+
+The blocky.py file will work though
